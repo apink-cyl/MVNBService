@@ -8,6 +8,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<link href="<%=base %>/images/log.ico" rel="shortcut icon"/>
 <title>发布个人联系方式</title>
 <script type="text/javascript" src="<%=base %>/common/easyui/jquery.min.js"></script>
 <script type="text/javascript" src="<%=base %>/common/easyui/jquery.easyui.min.js"></script>
